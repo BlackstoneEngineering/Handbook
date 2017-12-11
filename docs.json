@@ -669,18 +669,18 @@
                 }]
             },
             {
-                "title": "Your First Program",
+                "title": "Quickstart",
                 "sources": [{
                         "type": "markdown",
-                        "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/tutorials/first_app/first_program.md"
+                        "url": "https://github.com/blackstoneengineering/Handbook/blob/quickstart/docs/tutorials/first_app/first_program.md"
                     },
                     {
                         "type": "markdown",
-                        "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/tutorials/first_app/blinky_compiler.md"
+                        "url": "https://github.com/blackstoneengineering/Handbook/blob/quickstart/docs/tutorials/first_app/blinky_compiler.md"
                     },
                     {
                         "type": "markdown",
-                        "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/tutorials/first_app/blinky_cli.md"
+                        "url": "https://github.com/ARMmbed/blackstoneengineering/blob/quickstart/docs/tutorials/first_app/blinky_cli.md"
                     }
                 ]
             },
